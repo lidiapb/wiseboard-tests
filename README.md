@@ -1,4 +1,4 @@
-# Domotics samples
+# Wiseboard samples
 
 Several test files for the wiseboard project:
 
